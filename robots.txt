@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://3datolye-art.netlify.app/sitemap.xml
